@@ -8,3 +8,14 @@
   color: blue;
   background-color: aqua;
 }
+/*==Style cơ bản cho website==*/
+body {
+  font-family: sans-serif;
+  color: #222;
+}
+/*==Style cho menu===*/
+#menu ul {
+  background: #7fffd4;
+  list-style-type: none;
+  text-align: center;
+}
